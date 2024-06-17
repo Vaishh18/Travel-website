@@ -15,4 +15,7 @@ Welcome to the Student Registration Website for Trip! This project is designed t
 - **Backend**: PHP
 - **Database**: MySQL
 - **Frontend**: HTML, CSS, JavaScript
+![Screenshot 2024-05-21 153523](https://github.com/Vaishh18/Travel-website/assets/109457185/e7f0aab4-8d5e-466e-b090-8bae9fae91a9)
+Data Stored:
+![Screenshot 2024-05-21 153954](https://github.com/Vaishh18/Travel-website/assets/109457185/f16a9136-8338-4911-a7ad-d5f2c80b5abd)
 
